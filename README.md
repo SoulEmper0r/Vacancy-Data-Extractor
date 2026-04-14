@@ -19,7 +19,7 @@ Tampermonkey скрипт для автоматического извлечен
 ### Способ 1: Прямая установка (рекомендуемый)
 
 1. Установите расширение [Tampermonkey](https://www.tampermonkey.net/) для вашего браузера
-2. Перейдите по [ссылке на установку](https://raw.githubusercontent.com/SoulEmper0r/Vacancy-Data-Extractor/main/HH.ru%20Vacancy%20Data%20Extractor.user.js)
+2. Перейдите по [ссылке на установку](https://www.tampermonkey.net/script_installation.php#url=https://raw.githubusercontent.com/SoulEmper0r/Vacancy-Data-Extractor/main/Vacancy-Data-Extractor.user.js)
 3. Нажмите кнопку "Установить"
 
 ### Способ 2: Ручная установка
